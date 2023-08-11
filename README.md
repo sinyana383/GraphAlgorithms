@@ -1,4 +1,4 @@
-### SimpleNavigator
+### GraphAlgorithms
 
 Implementations of several basic algorithms on graphs.
 
